@@ -4,8 +4,8 @@ from datetime import datetime
 from typing import List
 
 import streamlit as st
-import google.genai as genai
-from google.genai import Client
+import google.genai as genai f
+rom google.genai import Client
 import bs4
 from agno.agent import Agent
 from agno.models.google import Gemini
